@@ -20,3 +20,5 @@ Four key areas that use state-of-the-art technology to improve vehicle lifecycle
 2. **Predictive Maintenance Through Real-Time Sensor Data** - Shukri H.M  
 3. **Neural Network-Based Chatbot for Personalized Vehicle Advice** - Ahlan M.I  
 4. **Automobile Parts Recommendations Using Customer Reviews** - Nanayakkara G.P.D.P 
+
+![Overall System Diagram](images/system-diagram.png)
